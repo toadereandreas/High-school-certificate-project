@@ -1,0 +1,22 @@
+D:\Proiecte_VS\Dealer_Auto\Dealer_Auto\bin\Debug\Dealer_Auto.exe.config
+D:\Proiecte_VS\Dealer_Auto\Dealer_Auto\bin\Debug\Dealer_Auto.exe
+D:\Proiecte_VS\Dealer_Auto\Dealer_Auto\bin\Debug\Dealer_Auto.pdb
+D:\Proiecte_VS\Dealer_Auto\Dealer_Auto\obj\Debug\Dealer_Auto.csprojResolveAssemblyReference.cache
+D:\Proiecte_VS\Dealer_Auto\Dealer_Auto\obj\Debug\Dealer_Auto.Form1.resources
+D:\Proiecte_VS\Dealer_Auto\Dealer_Auto\obj\Debug\Dealer_Auto.Properties.Resources.resources
+D:\Proiecte_VS\Dealer_Auto\Dealer_Auto\obj\Debug\Dealer_Auto.csproj.GenerateResource.cache
+D:\Proiecte_VS\Dealer_Auto\Dealer_Auto\obj\Debug\Dealer_Auto.csproj.CoreCompileInputs.cache
+D:\Proiecte_VS\Dealer_Auto\Dealer_Auto\obj\Debug\Dealer_Auto.exe
+D:\Proiecte_VS\Dealer_Auto\Dealer_Auto\obj\Debug\Dealer_Auto.pdb
+D:\Proiecte_VS\Dealer_Auto\Dealer_Auto\bin\Debug\BazaDeDate.accdb
+D:\Old laptop\Proiecte_VS\Dealer_Auto\Dealer_Auto\bin\Debug\BazaDeDate.accdb
+D:\Old laptop\Proiecte_VS\Dealer_Auto\Dealer_Auto\bin\Debug\Dealer_Auto.exe.config
+D:\Old laptop\Proiecte_VS\Dealer_Auto\Dealer_Auto\bin\Debug\Dealer_Auto.exe
+D:\Old laptop\Proiecte_VS\Dealer_Auto\Dealer_Auto\bin\Debug\Dealer_Auto.pdb
+D:\Old laptop\Proiecte_VS\Dealer_Auto\Dealer_Auto\obj\Debug\Dealer_Auto.csprojAssemblyReference.cache
+D:\Old laptop\Proiecte_VS\Dealer_Auto\Dealer_Auto\obj\Debug\Dealer_Auto.Form1.resources
+D:\Old laptop\Proiecte_VS\Dealer_Auto\Dealer_Auto\obj\Debug\Dealer_Auto.Properties.Resources.resources
+D:\Old laptop\Proiecte_VS\Dealer_Auto\Dealer_Auto\obj\Debug\Dealer_Auto.csproj.GenerateResource.cache
+D:\Old laptop\Proiecte_VS\Dealer_Auto\Dealer_Auto\obj\Debug\Dealer_Auto.csproj.CoreCompileInputs.cache
+D:\Old laptop\Proiecte_VS\Dealer_Auto\Dealer_Auto\obj\Debug\Dealer_Auto.exe
+D:\Old laptop\Proiecte_VS\Dealer_Auto\Dealer_Auto\obj\Debug\Dealer_Auto.pdb
